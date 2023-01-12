@@ -1,18 +1,9 @@
-### Hi there 👋
+### Hello World.I'm Mustafa Aswadi👋
 
-- 🔭 I’m currently working on Nest js
-- 🌱 I’m currently learning React js
-- 👯 I’m looking to collaborate on Open source
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#### NestJs & React Developer @ straight-forwareded!
+Lover of JS and TS. enjoying solving bugs and learning new things..<PR />   
 
-<!--
-**MustafaAswadi/MustafaAswadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
+#### Let's get in touch:
+<p> 📧 <a href="mailto:aswadimustafa16@gmail.com">Click to send mail</a></p>
+<p> 📱 (+93)798-734-279 </p> 
+<p align="center"> Keep it on 🔥. Do'nt stop❗ </p>
