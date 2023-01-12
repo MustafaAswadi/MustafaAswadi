@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa Aswadi</h1>
 <h3 align="center">Lover of JS and TS. enjoying solving bugs and learning new things..</h3>
 
- <img align="center" alt="Coding" width="800" src="https://images.unsplash.com/photo-1503252947848-7338d3f92f31?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1931&q=80">
+ <img align="center" alt="Coding" width="400" src="https://images.unsplash.com/photo-1503252947848-7338d3f92f31?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1931&q=80">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mustafaaswadi&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaaswadi" /> </p>
 
