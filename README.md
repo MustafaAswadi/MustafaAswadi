@@ -9,3 +9,5 @@ Lover of JS and TS. enjoying solving bugs and learning new things..<PR />
 <p align="center"> Keep it on 🔥. Don't stop❗ </p>
 
 ![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustafaAswadi&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
