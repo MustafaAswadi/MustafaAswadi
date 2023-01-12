@@ -8,4 +8,5 @@ Lover of JS and TS. enjoying solving bugs and learning new things..<PR />
 <p> 📱 (+93)798-734-279 </p> 
 <p align="center"> Keep it on 🔥. Don't stop❗ </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MustafaAswadi)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MustafaAswadi&theme=cobalt)](https://git.io/streak-stats)
+
