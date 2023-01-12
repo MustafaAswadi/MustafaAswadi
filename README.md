@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **aswadimustafa16@gmail.com**
 
-- ⚡ Fun fact **Keep it on 🔥. Don't stop❗**
-
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
