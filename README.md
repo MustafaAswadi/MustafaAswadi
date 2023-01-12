@@ -8,4 +8,4 @@ Lover of JS and TS. enjoying solving bugs and learning new things..<PR />
 <p> 📱 (+93)798-734-279 </p> 
 <p align="center"> Keep it on 🔥. Don't stop❗ </p>
 
-![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mustafa&show_icons=true&theme=radical)
+![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
